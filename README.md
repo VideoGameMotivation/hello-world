@@ -1,2 +1,2 @@
 # hello-world
-hell-world test repo
+Following my first github guide 
